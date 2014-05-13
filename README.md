@@ -9,6 +9,6 @@ The aim of the exercise was to write a program that converts Arabic numbers to R
 
 ###Other details
 
-The task was set by Evgeny Shadchnev [@shadchnev](https://github.com/shadchnev)
+The task was set by [Evgeny Shadchnev](https://github.com/shadchnev)
 
-Contributors included Sarah Young [@SarahYoung](https://github.com/SarahYoung) and Anna Yanova [@yan0va](https://github.com/yan0va) 
+Contributors included [Sarah Young](https://github.com/SarahYoung) and [Anna Yanova](https://github.com/yan0va) 
