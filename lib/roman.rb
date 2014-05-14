@@ -10,10 +10,9 @@ ROMAN = { 1 => "I",
           50 => "L", 
           100 => "C", 
           500 => "D", 
-          1000 => "M"}
+          1000 => "M" }
 
 def to_roman (number)
-  #guard clause
   raise "The number must be positive" unless number > 0
   result = ""
   while number > 0
