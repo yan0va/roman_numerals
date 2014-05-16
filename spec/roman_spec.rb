@@ -46,6 +46,10 @@ describe "Roman numeral converter" do
     expect(to_roman(50)).to eq("L")
   end
 
+  it "should convert 85 into LXXXV" do
+    expect(to_roman(85)).to eq("LXXXV")
+  end
+
   it "should convert 90 into XC" do
     expect(to_roman(90)).to eq("XC")
   end
